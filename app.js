@@ -74,7 +74,7 @@ getQuotes();
 
 //if we are using localQuotes
 // function newQuote(){
-//     // generating a random number to get random quotes from apiQuotes
+//     // generating a random number to get random quotes from localQuotes
 //     const quote=localQuotes[Math.floor(Math.random() * localQuotes.length )];
 //    console.log( quote);
 // }
