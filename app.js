@@ -70,13 +70,3 @@ twitterBtn.addEventListener('click',tweetQuote);
 
 console.log("hello");
 getQuotes();
-// loading();
-
-//if we are using localQuotes
-// function newQuote(){
-//     // generating a random number to get random quotes from localQuotes
-//     const quote=localQuotes[Math.floor(Math.random() * localQuotes.length )];
-//    console.log( quote);
-// }
-
-// newQuote();
